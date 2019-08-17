@@ -55,3 +55,20 @@ Specify what it takes to deploy your app.
 * Development Browser Extensions
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
+
+
+  ## Directory Structure
+
+  |--app
+|--config
+|--node_modules
+|--public
+|--tests
+|--vendor
+
+<other files>
+
+ember-cli-build.js
+package.json
+README.md
+testem.js
